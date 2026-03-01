@@ -1,4 +1,4 @@
-# 🛡️ Shashank Manognya – Cybersecurity Portfolio
+# 🛡️ Shashank Manognya R – Cybersecurity Portfolio
 
 ## 👨‍💻 About Me
 
