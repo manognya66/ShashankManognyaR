@@ -33,7 +33,6 @@ I am currently focused on:
 - Network Troubleshooting
 
 ### Cloud Security
-- Shared Responsibility Model
 - Identity and Access Management (IAM)
 - Cloud Security Fundamentals
 
